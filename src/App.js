@@ -1,8 +1,8 @@
-
+import CRUD from "./CRUD"
 
 function App() {
   return (
-    <h1>Bare Bones React App</h1>
+    <CRUD />
   );
 }
 
